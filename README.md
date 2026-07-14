@@ -10,3 +10,5 @@ Documentation of my daily journey transitioning from manufacturing management in
 - **OS:** Linux (Kali, Ubuntu)
 - **Networking:** Wireshark, Nmap
 - **Languages:** Python, Bash
+
+July 14, 2026: Successfully set up WSL and Git Bash!
