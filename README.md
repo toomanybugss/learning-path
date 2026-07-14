@@ -7,8 +7,6 @@ Documentation of my daily journey transitioning from manufacturing management in
 - Gain hands-on experience through platforms like TryHackMe and OverTheWire.
 
 ## 🛠️ Tech Stack & Tools Explored
-- **OS:** Linux (Kali, Ubuntu)
-- **Networking:** Wireshark, Nmap
-- **Languages:** Python, Bash
+- **I will update asper my learning progression**
 
 July 14, 2026: Successfully set up WSL and Git Bash!
